@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 👨‍💻 I'm a Software Engineering student specialized in Full-Stack web development<br>🔭 I’m currently working on A11y Sentinel - an all-in-one WCAG (Web Content Accessibility Guidelines) solution<br>🌱 I’m currently learning AWS and DevOps<br>🏋️ Gym & Fitness enthusiast<br>
 
 
